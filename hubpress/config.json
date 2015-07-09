@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "SuperMMX",
-    "repositoryName": "supermmx.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"SuperMMX","repositoryName":"supermmx.github.io","branch":"master"},"site":{"title":"A Monkey with a Keyboard","description":"What a monkey can create with a keyboard !","url":"https://SuperMMX.github.io"},"socialnetwork":{"github":"SuperMMX"},"theme":{"name":"Casper","url":"//SuperMMX.github.io/themes/Casper"}}
